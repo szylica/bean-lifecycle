@@ -1,4 +1,4 @@
-package org.szylica.beanlifecycle;
+package org.szylica.beanlifecycle.model;
 
 public class NumberDto {
     private Integer firstNumber;
